@@ -1,0 +1,338 @@
+* {
+    margin: none;
+    text-decoration: none;
+    padding: none;
+    border: none;
+    outline: none;
+    box-sizing: border-box;
+
+}
+
+
+.foto1 {
+    height: 606px;
+    position: relative;
+    width: 100%;
+    margin: 0;
+
+}
+
+.apresentacao {
+    text-shadow: 4px 2px rgb(243, 124, 68);
+    color: aliceblue;
+    font-family: "Apple Chancery, cursive", sans-serif;
+    font-weight: 100;
+    position: absolute;
+    top: 58%;
+    left: 10%;
+    font-size: 62px;
+}
+
+.descricao {
+    font-family: "Trebuchet MS, sans-serif", sans-serif;
+    margin-left: 10%;
+    margin-right: 52%;
+    color: aliceblue;
+    font-size: 23px;
+    position: absolute;
+    top: 78%;
+}
+
+.btndescer {
+    font-weight: 1.1;
+    bottom: 6%;
+    right: 3%;
+    padding: 0.8em 1.8em;
+    border: 2px solid #fff;
+    position: absolute;
+    overflow: hidden;
+    background-color: transparent;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 18px;
+    transition: .3s;
+    z-index: 1;
+    font-family: inherit;
+    color: #fff;
+}
+
+.btndescer::before {
+    content: '';
+    width: 0;
+    height: 300%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(45deg);
+    background: rgb(243, 124, 68);
+    transition: .5s ease;
+    display: block;
+    z-index: -1;
+}
+
+.btndescer:hover::before {
+    width: 125%;
+}
+
+.btndescer:hover {
+    color: #fff;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+    position: absolute;
+    scale: 0.7;
+    top: 0.1%;
+    right: 0.1%;
+    opacity: 80%;
+}
+
+.up {
+    display: flex;
+    flex-direction: row;
+    gap: 0.27em;
+}
+
+.down {
+    display: flex;
+    flex-direction: row;
+    gap: 0.5em;
+}
+
+.card1 {
+    width: 90px;
+    height: 90px;
+    outline: none;
+    border: none;
+    background: white;
+    border-radius: 90px 5px 5px 5px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    transition: .2s ease-in-out;
+}
+
+.instagram {
+    margin-top: 1.5em;
+    margin-left: 1.2em;
+    fill: #cc39a4;
+}
+
+.card2 {
+    width: 90px;
+    height: 90px;
+    outline: none;
+    border: none;
+    background: white;
+    border-radius: 5px 90px 5px 5px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    transition: .2s ease-in-out;
+}
+
+.twitter {
+    margin-top: 1.5em;
+    margin-left: -.9em;
+    fill: #03A9F4;
+}
+
+.card3 {
+    width: 90px;
+    height: 90px;
+    outline: none;
+    border: none;
+    background: white;
+    border-radius: 5px 5px 5px 90px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    transition: .2s ease-in-out;
+}
+
+.github {
+    margin-top: -.6em;
+    margin-left: 1.2em;
+}
+
+.card4 {
+    width: 90px;
+    height: 90px;
+    outline: none;
+    border: none;
+    background: white;
+    border-radius: 5px 5px 90px 5px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    transition: .2s ease-in-out;
+}
+
+.discord {
+    margin-top: -.9em;
+    margin-left: -1.2em;
+    fill: #8c9eff;
+}
+
+.card1:hover {
+    cursor: pointer;
+    scale: 1.1;
+    background-color: #cc39a4;
+}
+
+.card1:hover .instagram {
+    fill: white;
+}
+
+.card2:hover {
+    cursor: pointer;
+    scale: 1.1;
+    background-color: #03A9F4;
+}
+
+.card2:hover .twitter {
+    fill: white;
+}
+
+.card3:hover {
+    cursor: pointer;
+    scale: 1.1;
+    background-color: black;
+}
+
+.card3:hover .github {
+    fill: white;
+}
+
+.card4:hover {
+    cursor: pointer;
+    scale: 1.1;
+    background-color: #8c9eff;
+}
+
+.card4:hover .discord {
+    fill: white;
+}
+
+.esp {
+    color: white;
+    width: 976px;
+    height: 1px;
+    font-family: "Trebuchet MS, sans-serif", sans-serif;
+
+}
+
+.titulo-esp {
+    font-family: "Apple Chancery, cursive", sans-serif;
+    font-size: 41px;
+    text-align: left;
+    font-weight: 1.1;
+    padding-top: 140px;
+    margin-left: 9%;
+    display: flex;
+    position: absolute;
+    top: 90%;
+    text-shadow:1px 1px silver;
+
+}
+
+.resumo {
+    padding-top: 20px;
+    max-width: 60%;
+    font-size: 20px;
+    font-weight: 1.1;
+    padding-top: 20px;
+    margin-left: 9%;
+    word-spacing: 1px;
+    position: absolute;
+    top: 128%;
+}
+
+.desempenho {
+    flex-direction: column;
+    padding-top: 40px;
+    padding-left: 5%;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.asas {
+    top: 160%;
+    width: 110px;
+    display: flex;
+    position: absolute;
+    margin-left: 2%
+}
+
+.titulo-desempenho {
+    padding-left: 20px;
+    padding-top: 40px;
+    font-size: 33px;
+    position: absolute;
+    top: 158.5%;
+    left: 10%;
+}
+
+.texto-desempenho {
+    position: absolute;
+    top: 155%;
+    padding: 9%;
+    margin-right: 60%;
+    font-size: 18px;
+    text-align: center;
+}
+
+.container-especialidades {
+    justify-content: space-between;
+    display: flex;
+    width: 104px;
+
+}
+
+.texto-design {
+    position: absolute;
+    left: 34%;
+    top: 175%;
+    margin-right: 43%;
+    font-size: 18px;
+    text-align: center;
+}
+
+.titulo-design {
+    position: absolute;
+    font-size: 33px;
+    top: 165%;
+    left: 43%;
+}
+
+.foto-design {
+    position: absolute;
+    width: 150px;
+    left: 32%;
+    top: 159%;
+}
+
+.titulo-tec {
+    font-size: 33px;
+    position: absolute;
+    top: 165.5%;
+    right: 20.5%;
+}
+
+.texto-tec {
+    position: absolute;
+    right: 2%;
+    text-align: center;
+    margin-left: 61.5%;
+    top: 173.1%;
+    font-size: 18px;
+    margin-right: 10%;
+}
+
+.engrenagem {
+    position: absolute;
+    width: 70px;
+    right: 35%;
+    top: 163.5%;
+}
+
+.fundo {
+    opacity: 180%;
+    margin: 0;
+    height: 606px;
+    width: 1216px;
+}
