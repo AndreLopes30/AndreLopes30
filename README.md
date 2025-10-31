@@ -33,7 +33,7 @@ Uma landing page dedicada ao Chevrolet Corvette, feita com HTML e CSS puro, foca
 
 ## 📫 Como me encontrar
 
-- [LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/andre-ferreira30/))
+- [LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/andre-ferreira30))
 - [Email](ferreiraandre833@gmail.com)
 
 ---
