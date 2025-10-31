@@ -1,3 +1,45 @@
+# 👋 Olá! Eu sou o André Lopes
+
+Sou um desenvolvedor apaixonado por tecnologia, carros e soluções criativas. Atualmente estou focado em aprender e aplicar tecnologias como **HTML, CSS, JavaScript e Python**, criando projetos que unem design e funcionalidade.
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🔹 [Catálogo de Carros](https://github.com/AndreLopes30/catalogo-de-carros)
+Aplicação web com frontend em HTML/CSS/JS e backend em Python (Flask), que exibe uma lista de carros com filtros e busca.
+
+### 🔹 Corvette Landing Page
+Uma landing page dedicada ao Chevrolet Corvette, feita com HTML e CSS puro, focada em layout e responsividade.
+
+---
+
+## 🛠️ Tecnologias que estou usando
+
+- HTML5, CSS3, JavaScript
+- Python (Flask)
+- Git e GitHub
+- VS Code
+
+---
+
+## 🎯 Objetivos atuais
+
+- Aprimorar habilidades com frameworks modernos (React, Django)
+- Publicar projetos com deploy (GitHub Pages, Vercel, Render)
+- Contribuir com projetos open source
+
+---
+
+## 📫 Como me encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- [Email](mailto:seu@email.com)
+
+---
+
+> “A melhor forma de aprender é construindo.” 🚧
+
 <div>
    <a href="https://github.com/AndreLopes30">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreLopes30&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
