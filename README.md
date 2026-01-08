@@ -26,7 +26,7 @@ Uma landing page dedicada ao Chevrolet Corvette, feita com HTML e CSS puro, foca
 ## 🎯 Objetivos atuais
 
 - Aprimorar habilidades com frameworks modernos (React, Django)
-- Publicar projetos com deploy (GitHub Pages, Vercel, Render)
+- Publicar projetos com deploy
 - Contribuir com projetos open source
 
 ---
