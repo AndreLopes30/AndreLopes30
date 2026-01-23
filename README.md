@@ -10,7 +10,7 @@ Sou um desenvolvedor apaixonado por tecnologia, carros e soluções criativas. A
 Aplicação web com frontend em HTML/CSS/JS e backend em Python (Flask), que exibe uma lista de carros com filtros e busca.
 
 ### 🔹 [Corvette Landing Page](https://github.com/AndreLopes30/AndreLopes30)
-Uma landing page dedicada ao Chevrolet Corvette, feita com HTML e CSS puro, focada em layout e responsividade.
+Uma landing page dedicada ao Chevrolet Corvette, feita com HTML e CSS, focada em layout e responsividade.
 
 ---
 
