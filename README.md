@@ -1,42 +1,28 @@
-# 👋 Olá! Eu sou o André Lopes
+# 👋 Olá, eu sou o André Ferreira
 
-Sou um desenvolvedor apaixonado por tecnologia, carros e soluções criativas. Atualmente estou focado em aprender e aplicar tecnologias como **HTML, CSS, JavaScript e Python**, criando projetos que unem design e funcionalidade.
-
----
+Desenvolvedor Backend Júnior com foco em Python, Odoo ERP e automação de processos.
+Atuo no desenvolvimento de APIs, customização de módulos Odoo e integração entre sistemas,
+utilizando Docker, bancos de dados e regras de negócio.
 
 ## 🚀 Projetos em destaque
+- 🔹 [Catálogo de Carros – API Backend](https://github.com/AndreLopes30/catalogo-de-carros)
+  > API REST em Python (Flask) com CRUD completo, Docker e boas práticas de backend.
 
-### 🔹 [Catálogo de Carros](https://github.com/AndreLopes30/catalogo-de-carros)
-Aplicação web com frontend em HTML/CSS/JS e backend em Python (Flask), que exibe uma lista de carros com filtros e busca.
-
-### 🔹 [Corvette Landing Page](https://github.com/AndreLopes30/AndreLopes30)
-Uma landing page dedicada ao Chevrolet Corvette, feita com HTML e CSS, focada em layout e responsividade.
-
----
-
-## 🛠️ Tecnologias que estou usando
-
-- HTML5, CSS3, JavaScript
+## 🛠️ Stack principal
 - Python (Flask)
-- Git e GitHub
-- VS Code
+- Odoo (ORM, Models, Views, Regras de Negócio)
+- PostgreSQL / SQLite
+- Docker & Docker Compose
+- APIs REST & Webhooks
 
----
+## 🎯 Objetivo profissional
+Atuar como Desenvolvedor Backend Júnior (CLT, Freelancer ou remoto),
+com foco em Python, Odoo e integrações entre sistemas.
 
-## 🎯 Objetivos atuais
+📫 **Contato**
+- LinkedIn: https://www.linkedin.com/in/andre-ferreira30
+- Email: ferreiraandre833@gmail.com
 
-- Aprimorar habilidades com frameworks modernos (React, Django)
-- Publicar projetos com deploy
-- Contribuir com projetos open source
-
----
-
-## 📫 Como me encontrar
-
-- [LinkedIn](https://www.linkedin.com/in/andre-ferreira30)
-- [Email](ferreiraandre833@gmail.com)
-
----
 
 > “A melhor forma de aprender é construindo.” 🚧
 
