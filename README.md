@@ -16,7 +16,7 @@ utilizando Docker, bancos de dados e regras de negócio.
 - APIs REST & Webhooks
 
 ## 🎯 Objetivo profissional
-Atuar como Desenvolvedor Backend Júnior (CLT, Freelancer ou remoto),
+Atuar como Desenvolvedor Backend Júnior,
 com foco em Python, Odoo e integrações entre sistemas.
 
 📫 **Contato**
