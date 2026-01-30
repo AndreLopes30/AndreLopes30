@@ -8,12 +8,19 @@ utilizando Docker, bancos de dados e regras de negócio.
 - 🔹 [Catálogo de Carros – API Backend](https://github.com/AndreLopes30/catalogo-de-carros)
   > API REST em Python (Flask) com CRUD, Docker e boas práticas de backend.
 
-## 🛠️ Stack principal
-- Python (Flask)
-- Odoo (ORM, Models, Views, Regras de Negócio)
-- PostgreSQL / SQLite
-- Docker & Docker Compose
-- APIs REST & Webhooks
+## 🛠️ Stack Tecnológica
+
+### 🖥️ Linguagens & Frameworks
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Odoo](https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+### ⚙️ Infra & Dados
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
 
 ## 🎯 Objetivo profissional
 Atuar como Desenvolvedor Backend Júnior,
