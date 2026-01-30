@@ -6,7 +6,7 @@ utilizando Docker, bancos de dados e regras de negócio.
 
 ## 🚀 Projetos em destaque
 - 🔹 [Catálogo de Carros – API Backend](https://github.com/AndreLopes30/catalogo-de-carros)
-  > API REST em Python (Flask) com CRUD completo, Docker e boas práticas de backend.
+  > API REST em Python (Flask) com CRUD, Docker e boas práticas de backend.
 
 ## 🛠️ Stack principal
 - Python (Flask)
