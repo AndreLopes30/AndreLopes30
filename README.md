@@ -1,12 +1,15 @@
 # 👋 Olá, eu sou o André Ferreira
 
-Desenvolvedor Backend Júnior com foco em Python, Odoo ERP e automação de processos.
-Atuo no desenvolvimento de APIs, customização de módulos Odoo e integração entre sistemas,
-utilizando Docker, bancos de dados e regras de negócio.
+Desenvolvedor Backend Júnior com foco em **Python, Odoo ERP e automação de processos**.
+Atuo no desenvolvimento de APIs, customização de módulos Odoo e integração entre sistemas, utilizando Docker, bancos de dados e regras de negócio.
+
+---
 
 ## 🚀 Projetos em destaque
 - 🔹 [Catálogo de Carros – API Backend](https://github.com/AndreLopes30/catalogo-de-carros)
   > API REST em Python (Flask) com CRUD, Docker e boas práticas de backend.
+
+---
 
 ## 🛠️ Stack Tecnológica
 
@@ -14,6 +17,7 @@ utilizando Docker, bancos de dados e regras de negócio.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Odoo](https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### ⚙️ Infra & Dados
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -23,13 +27,29 @@ utilizando Docker, bancos de dados e regras de negócio.
 ---
 
 ## 🎯 Objetivo profissional
-Atuar como Desenvolvedor Backend Júnior,
-com foco em Python, Odoo e integrações entre sistemas.
+Atuar como Desenvolvedor Backend Júnior, com foco em Python, Odoo e integrações entre sistemas.
 
-📫 **Contato**
-- LinkedIn: https://www.linkedin.com/in/andre-ferreira30
-- Email: mailto:ferreiraandre833@gmail.com
+---
 
+## 📊 Estatísticas
+<div align="center">
+  <a href="https://github.com/AndreLopes30">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreLopes30&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLopes30&layout=compact&langs_count=6&theme=tokyonight"/>
+  </a>
+</div>
+
+---
+
+## 📫 Contato
+<div> 
+  <a href="https://www.linkedin.com/in/andre-ferreira30" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:ferreiraandre833@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/af.menezess" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://discord.gg/ZHApQrm7" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+</div>
+
+<br>
 
 > “A melhor forma de aprender é construindo.” 🚧
 
