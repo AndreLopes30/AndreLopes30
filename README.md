@@ -25,11 +25,10 @@ Atuo no desenvolvimento de APIs, customização de módulos Odoo e integração 
 
 ---
 
-## 📊 Estatísticas do GitHub
-
+## 📊 Estatísticas
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreLopes30&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLopes30&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AndreLopes30&show_icons=true&theme=tokyonight" alt="Estatísticas André" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndreLopes30&layout=compact&theme=tokyonight" alt="Linguagens André" />
 </p>
 
 ---
