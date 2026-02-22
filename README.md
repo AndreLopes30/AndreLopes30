@@ -6,8 +6,10 @@ Atuo no desenvolvimento de APIs, customização de módulos Odoo e integração 
 ---
 
 ## 🚀 Projetos em destaque
-- 🔹 [Catálogo de Carros – API Backend](https://github.com/AndreLopes30/catalogo-de-carros)
-  > API REST em Python (Flask) com CRUD, Docker e boas práticas de backend.
+- 🔹 [NexusAPI – API Backend](https://github.com/AndreLopes30/nexus-api)
+  > API REST desenvolvida em Python utilizando FastAPI para gerenciamento de usuários e tarefas, com autenticação baseada em JWT. O objetivo deste projeto é demonstrar aplicação de boas práticas em APIs REST, autenticação com JWT, organização modular e testes automatizados.
+- 🔹 [Catálogo de Carros](https://github.com/AndreLopes30/catalogo-de-carros)
+  > Aplicação em Python (Flask) com CRUD, Docker e boas práticas de backend.
 
 ---
 
