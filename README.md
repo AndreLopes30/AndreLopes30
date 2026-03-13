@@ -8,16 +8,22 @@ Desenvolvedor em transição de carreira com experiência em backend (Python/Fas
 
 ---
 
-## 🚀 Projetos em destaque
-- 💰 [Penny Budget Tracker](https://github.com/AndreLopes30/penny-budget-tracker) 
+## 🚀 Projetos em Destaque
+
+### 💰 [Penny Budget Tracker](https://github.com/AndreLopes30/penny-budget-tracker) 
 **Full-Stack:** Aplicação de controle financeiro pessoal com backend em FastAPI e frontend em React/TypeScript.
-    **Stack:** FastAPI · PostgreSQL · React · TypeScript · Vite · Tailwind CSS
-    **Destaque:** Deploy online com CI/CD
- 🔗 [Ver aplicação rodando](https://penny-budget-tracker.vercel.app/)
-- 🔹 [NexusAPI – API Backend](https://github.com/AndreLopes30/nexus-api)
-  > API REST desenvolvida em Python utilizando FastAPI para gerenciamento de usuários e tarefas, com autenticação baseada em JWT. O objetivo deste projeto é demonstrar aplicação de boas práticas em APIs REST, autenticação com JWT, organização modular e testes automatizados.
-- 🔹 [Catálogo de Carros](https://github.com/AndreLopes30/catalogo-de-carros)
-  > Aplicação em Python (Flask) com CRUD, Docker e boas práticas de backend.
+- **Stack:** FastAPI · PostgreSQL · React · TypeScript · Vite · Tailwind CSS
+- **Destaque:** Deploy online com CI/CD
+- 🔗 [Ver aplicação rodando](https://penny-budget-tracker.vercel.app/)
+
+### ⚡ [Nexus API](https://github.com/AndreLopes30/nexus-api)
+**Backend:** API REST de gerenciamento de tarefas com autenticação JWT.
+- **Stack:** Python · FastAPI · PostgreSQL · Docker · Pytest · Swagger
+- **Destaque:** Arquitetura modular, testes automatizados e documentação completa
+
+### 🚗 [Catálogo de Carros](https://github.com/AndreLopes30/catalogo-de-carros)
+**Backend:** Sistema CRUD com Flask e boas práticas de backend.
+- **Stack:** Python · Flask · SQLite · Jinja2 · Docker
 
 ---
 
