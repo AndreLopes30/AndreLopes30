@@ -1,11 +1,19 @@
 # 👋 Olá, eu sou o André Ferreira
 
-Desenvolvedor Backend Júnior com foco em **Python, Odoo ERP e automação de processos**.
-Atuo no desenvolvimento de APIs, customização de módulos Odoo e integração entre sistemas, utilizando Docker, bancos de dados e regras de negócio.
+**Desenvolvedor Backend & Full-Stack Jr | Python · FastAPI · React · PostgreSQL**
+
+🎯 **Open to Work** - Buscando oportunidades em São Paulo (presencial/híbrido) ou Remoto
+
+Desenvolvedor em transição de carreira com experiência em backend (Python/FastAPI/Odoo) e projetos full-stack (React/TypeScript). Foco em construir APIs escaláveis, testes automatizados e código limpo.
 
 ---
 
 ## 🚀 Projetos em destaque
+- 💰 [Penny Budget Tracker](https://github.com/AndreLopes30/penny-budget-tracker) 
+**Full-Stack:** Aplicação de controle financeiro pessoal com backend em FastAPI e frontend em React/TypeScript.
+  **Stack:** FastAPI · PostgreSQL · React · TypeScript · Vite · Tailwind CSS
+ **Destaque:** Deploy online com CI/CD
+- 🔗 [Ver aplicação rodando](https://penny-budget-tracker.vercel.app/)
 - 🔹 [NexusAPI – API Backend](https://github.com/AndreLopes30/nexus-api)
   > API REST desenvolvida em Python utilizando FastAPI para gerenciamento de usuários e tarefas, com autenticação baseada em JWT. O objetivo deste projeto é demonstrar aplicação de boas práticas em APIs REST, autenticação com JWT, organização modular e testes automatizados.
 - 🔹 [Catálogo de Carros](https://github.com/AndreLopes30/catalogo-de-carros)
