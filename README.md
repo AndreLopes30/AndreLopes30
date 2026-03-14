@@ -75,6 +75,6 @@ Desenvolvedor em transição de carreira com experiência em backend (Python/Fas
 ### 💡 Sobre mim
 Em transição de carreira de Analista de Suporte para Desenvolvedor Backend. Aprendo construindo projetos reais e busco evoluir em times que valorizam código limpo, testes e colaboração.
 
-📍 **Disponível para:** Backend Jr, Full-Stack Jr ou Estágio em SP (presencial/remoto)
+📍 **Disponível para:** Backend Jr, Full-Stack Jr ou Estágio em SP (presencial/remoto).
 
 > "A melhor forma de aprender é construindo." 🚧
