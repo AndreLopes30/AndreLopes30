@@ -42,7 +42,7 @@ Desenvolvedor em transição de carreira com experiência em backend (Python/Fas
 [![Minhas Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,dynamodb&perline=5)](https://skillicons.dev)
 
 ### 🛠️ Infra & DevOps
-[![Minhas Skills](https://skillicons.dev/icons?i=docker,terraform,githubactions,vscode,postman&perline=5)](https://skillicons.dev)
+[![Minhas Skills](https://skillicons.dev/icons?i=docker,vscode,postman&perline=5)](https://skillicons.dev)
 
 ### 🐧 SO & Shell
 [![Minhas Skills](https://skillicons.dev/icons?i=linux,ubuntu,powershell,bash&perline=4)](https://skillicons.dev)
