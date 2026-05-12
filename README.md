@@ -35,11 +35,18 @@ Desenvolvedor em transição de carreira com experiência em backend (Python/Fas
 ### 🎨 Frontend
 [![Minhas Skills](https://skillicons.dev/icons?i=react,vue,js,html,css&perline=6)](https://skillicons.dev)
 
-### 🗄️ Banco de Dados
-[![Minhas Skills](https://skillicons.dev/icons?i=postgres,sqlite,mysql,mssql&perline=4)](https://skillicons.dev)
+### ☁️ Cloud & Mensageria
+[![Minhas Skills](https://skillicons.dev/icons?i=aws,kafka&perline=2)](https://skillicons.dev)
 
-### 🛠️ DevOps & Ferramentas
-[![Minhas Skills](https://skillicons.dev/icons?i=docker,vscode,postman,pnpm&perline=4)](https://skillicons.dev)
+### 🗄️ Banco de Dados
+[![Minhas Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,dynamodb&perline=5)](https://skillicons.dev)
+
+### 🛠️ Infra & DevOps
+[![Minhas Skills](https://skillicons.dev/icons?i=docker,terraform,githubactions,vscode,postman&perline=5)](https://skillicons.dev)
+
+### 🐧 SO & Shell
+[![Minhas Skills](https://skillicons.dev/icons?i=linux,ubuntu,powershell,bash&perline=4)](https://skillicons.dev)
+
 ---
 
 ## 📊 Estatísticas
