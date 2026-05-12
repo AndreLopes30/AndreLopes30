@@ -36,7 +36,7 @@ Desenvolvedor em transição de carreira com experiência em backend (Python/Fas
 [![Minhas Skills](https://skillicons.dev/icons?i=react,vue,js,html,css&perline=6)](https://skillicons.dev)
 
 ### ☁️ Cloud & Mensageria
-[![Minhas Skills](https://skillicons.dev/icons?i=aws&perline=2)](https://skillicons.dev)
+[![Minhas Skills](https://skillicons.dev/icons?i=aws,azure&perline=2)](https://skillicons.dev)
 
 ### 🗄️ Banco de Dados
 [![Minhas Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,dynamodb&perline=5)](https://skillicons.dev)
