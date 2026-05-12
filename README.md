@@ -30,10 +30,10 @@ Desenvolvedor em transição de carreira com experiência em backend (Python/Fas
 ## 🛠️ Stack Tecnológica
 
 ### 🖥️ Backend
-[![Minhas Skills](https://skillicons.dev/icons?i=py,fastapi,flask,nodejs,express&perline=6)](https://skillicons.dev)
+[![Minhas Skills](https://skillicons.dev/icons?i=py,fastapi,flask,nodejs,ts,express&perline=6)](https://skillicons.dev)
 
 ### 🎨 Frontend
-[![Minhas Skills](https://skillicons.dev/icons?i=react,vue,ts,js,html,css&perline=6)](https://skillicons.dev)
+[![Minhas Skills](https://skillicons.dev/icons?i=react,vue,js,html,css&perline=6)](https://skillicons.dev)
 
 ### 🗄️ Banco de Dados
 [![Minhas Skills](https://skillicons.dev/icons?i=postgres,sqlite,mysql,mssql&perline=4)](https://skillicons.dev)
