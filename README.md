@@ -4,7 +4,18 @@
 
 Sou um desenvolvedor focado na construção de APIs RESTful escaláveis, processamento de dados e otimização de banco de dados. Tenho experiência prática em reduzir tempo de queries SQL e criar pipelines de integração. Busco evoluir em times que valorizam código limpo, testes automatizados e arquiteturas robustas.
 
-📍 **Buscando oportunidades:** Backend Jr ou Full-Stack Jr (São Paulo ou Remoto)
+---
+
+## 🛠️ Stack Tecnológica
+
+### 🖥️ Backend & Dados
+[![Minhas Skills](https://skillicons.dev/icons?i=py,fastapi,flask,java,nodejs,ts,express,postgres,sqlite)](https://skillicons.dev)
+
+### 🎨 Frontend
+[![Minhas Skills](https://skillicons.dev/icons?i=react,vue,js,html,css,tailwind)](https://skillicons.dev)
+
+### ☁️ Cloud, Infra & Ferramentas
+[![Minhas Skills](https://skillicons.dev/icons?i=aws,docker,nginx,linux,vscode,postman)](https://skillicons.dev)
 
 ---
 
@@ -24,19 +35,6 @@ Sou um desenvolvedor focado na construção de APIs RESTful escaláveis, process
 ### 🚗 [Catálogo de Carros](https://github.com/AndreLopes30/catalogo-de-carros)
 **Backend:** Sistema CRUD com boas práticas de conteinerização.
 - **Stack:** Python · Flask · SQLite · Jinja2 · Docker
-
----
-
-## 🛠️ Stack Tecnológica
-
-### 🖥️ Backend & Dados
-[![Minhas Skills](https://skillicons.dev/icons?i=py,fastapi,flask,java,nodejs,ts,express,postgres,sqlite)](https://skillicons.dev)
-
-### 🎨 Frontend
-[![Minhas Skills](https://skillicons.dev/icons?i=react,vue,js,html,css,tailwind)](https://skillicons.dev)
-
-### ☁️ Cloud, Infra & Ferramentas
-[![Minhas Skills](https://skillicons.dev/icons?i=aws,docker,nginx,linux,vscode,postman)](https://skillicons.dev)
 
 ---
 
