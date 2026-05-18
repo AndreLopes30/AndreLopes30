@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o André Ferreira
 
-**Desenvolvedor Backend | Python · FastAPI · PostgreSQL · AWS***
+**Desenvolvedor Backend | Python · FastAPI · PostgreSQL · AWS**
 
 Sou um desenvolvedor focado na construção de APIs RESTful escaláveis, processamento de dados e otimização de banco de dados. Tenho experiência prática em reduzir tempo de queries SQL e criar pipelines de integração. Busco evoluir em times que valorizam código limpo, testes automatizados e arquiteturas robustas.
 
