@@ -42,8 +42,8 @@ Sou um desenvolvedor focado na construção de APIs RESTful escaláveis, process
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AndreLopes30&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndreLopes30&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AndreLopes30&show_icons=true&theme=tokyonight&hide_border=true&card_width=450" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndreLopes30&layout=compact&theme=tokyonight&hide_border=true&card_width=400" />
 </p>
 
 ---
