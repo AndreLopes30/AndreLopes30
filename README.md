@@ -20,7 +20,7 @@ Sou um desenvolvedor focado na construção de APIs RESTful escaláveis, process
 [![Minhas Skills](https://skillicons.dev/icons?i=postgres,sqlite,mysql,sqlserver)](https://skillicons.dev)
 
 ### ☁️ Cloud, Infra & Ferramentas
-[![Minhas Skills](https://skillicons.dev/icons?i=aws,docker,nginx,linux,vscode,postman)](https://skillicons.dev)
+[![Minhas Skills](https://skillicons.dev/icons?i=aws,azure,docker,nginx,linux,vscode,postman)](https://skillicons.dev)
 
 ---
 
