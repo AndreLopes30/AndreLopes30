@@ -4,7 +4,7 @@
 
 Sou um desenvolvedor focado na construção de APIs RESTful escaláveis, processamento de dados e otimização de banco de dados. Tenho experiência prática em reduzir tempo de queries SQL, criar pipelines de integração e implementar autenticação segura com JWT. Atuo tanto no ecossistema Python quanto Java, e busco evoluir em times que valorizam código limpo, testes automatizados e arquiteturas robustas.
 
-📍 **Buscando oportunidades:** Backend Jr (Python ou Java) — São Paulo ou Remoto
+📍 **Buscando oportunidades:** Backend (Python ou Java) — São Paulo ou Remoto
 
 ---
 
@@ -32,15 +32,15 @@ Sou um desenvolvedor focado na construção de APIs RESTful escaláveis, process
 - **Destaque:** Arquitetura Cloud ponta a ponta com comunicação segura via Nginx e HTTPS.
 - 🔗 [Ver aplicação rodando](https://penny-budget-tracker.vercel.app/)
 
-### 🏫 [Escola API](https://github.com/AndreLopes30/escola-api)
-**Backend:** API REST de gerenciamento escolar com autenticação JWT.
-- **Stack:** Java · Spring Boot · Spring Security · PostgreSQL · JPA/Hibernate · Lombok
-- **Destaque:** Autenticação stateless com JWT, tratamento global de exceções e arquitetura em camadas.
-
 ### ⚡ [Nexus API](https://github.com/AndreLopes30/nexus-api)
 **Backend:** API REST de gerenciamento de tarefas com autenticação JWT.
 - **Stack:** Python · FastAPI · PostgreSQL · Docker · Pytest · Swagger
 - **Destaque:** Arquitetura modular, testes automatizados e documentação completa.
+
+### 🏫 [Escola API](https://github.com/AndreLopes30/escola-api)
+**Backend:** API REST de gerenciamento escolar com autenticação JWT.
+- **Stack:** Java · Spring Boot · Spring Security · PostgreSQL · JPA/Hibernate · Lombok
+- **Destaque:** Autenticação stateless com JWT, tratamento global de exceções e arquitetura em camadas.
 
 ### 🚗 [Catálogo de Carros](https://github.com/AndreLopes30/catalogo-de-carros)
 **Backend:** Sistema CRUD com boas práticas de conteinerização.
