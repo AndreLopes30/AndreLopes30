@@ -4,7 +4,7 @@
 
 Sou um desenvolvedor focado na construção de APIs RESTful escaláveis, processamento de dados e otimização de banco de dados. Tenho experiência prática em reduzir tempo de queries SQL com EXPLAIN ANALYZE (-35%), criar pipelines de integração e implementar autenticação segura com JWT. Desenvolvo arquiteturas modernas focadas em código limpo, testes automatizados (Pytest com 89% de cobertura) e pipelines de CI/CD.
 
-📍 **Buscando oportunidades:** Backend (Python ou Java) — São Paulo ou Remoto.
+📍 **Buscando oportunidades:** Backend (Python ou Java) — São Paulo ou Remoto
 
 ---
 
