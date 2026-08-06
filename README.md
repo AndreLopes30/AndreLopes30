@@ -11,7 +11,7 @@ Sou um desenvolvedor focado na construção de APIs RESTful escaláveis, process
 ## 🛠️ Stack Tecnológica
 
 ### 🖥️ Backend & Dados
-[![Minhas Skills](https://skillicons.dev/icons?i=py,fastapi,flask,java,spring,nodejs,ts,express)](https://skillicons.dev)
+[![Minhas Skills](https://skillicons.dev/icons?i=py,fastapi,flask,java,spring,nodejs,ts,express,pytest)](https://skillicons.dev)
 
 ### 🎨 Frontend
 [![Minhas Skills](https://skillicons.dev/icons?i=react,vue,js,html,css,tailwind)](https://skillicons.dev)
