@@ -85,7 +85,7 @@ Nos meus projetos, venho aplicando:
 
 ### 🎨 Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=react,vue,ts,js,html,css,tailwind)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=angular,react,vue,ts,js,html,css,tailwind)](https://skillicons.dev)
 
 ### 🗄️ Bancos de dados
 
