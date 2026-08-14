@@ -102,10 +102,10 @@ Principais pontos:
 - Alembic;
 - autenticação JWT;
 - Docker;
-- testes automatizados com aproximadamente 90% de cobertura;
+- testes automatizados com Pytest;
 - análise estática com Ruff;
 - pipeline de CI com GitHub Actions;
-- integração com frontend React/TypeScript.
+- integração com frontend React.
 
 ---
 
