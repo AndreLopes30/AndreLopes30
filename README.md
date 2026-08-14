@@ -16,23 +16,22 @@ Desenvolvo APIs REST, integrações e automações com foco em arquitetura organ
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor backend com foco atual em **Java e Spring Boot**, construindo APIs REST com arquitetura em camadas, autenticação, persistência de dados e testes automatizados.
+Sou desenvolvedor backend com foco em **Java/Spring Boot e Python/FastAPI**, construindo APIs REST, integrações e automações com atenção a arquitetura, segurança, persistência de dados e testes automatizados.
 
-Também possuo experiência prática com **Python**, principalmente no desenvolvimento de APIs, integrações entre sistemas, automações e otimização de consultas em bancos relacionais.
-
-Além das minhas stacks principais, busco ampliar minha capacidade de adaptação entre diferentes ecossistemas backend. Nesse processo, desenvolvi também uma API completa em **C# e ASP.NET Core**, utilizando Entity Framework Core, PostgreSQL, Docker, migrations e Testcontainers.
+Tenho experiência prática com **PostgreSQL, Docker, GitHub Actions e AWS**, além de projetos em **C#/.NET** que ampliam minha capacidade de adaptação entre diferentes ecossistemas backend.
 
 Nos meus projetos, venho aplicando:
 
-- arquitetura com Controller, Service e camada de persistência;
+- arquitetura em camadas e separação de responsabilidades;
 - APIs REST e integração entre sistemas;
 - autenticação e autorização com JWT;
 - modelagem e otimização de bancos relacionais;
 - migrations e versionamento de schema;
-- testes unitários, testes HTTP e testes de integração;
-- Docker e pipelines de CI/CD;
+- testes unitários, HTTP e de integração;
+- PostgreSQL real em testes com Testcontainers;
+- Docker e pipelines de CI;
 - documentação técnica com OpenAPI;
-- deploy e infraestrutura em AWS.
+- deploy e infraestrutura em cloud.
 
 📍 **Guarulhos, São Paulo**
 
